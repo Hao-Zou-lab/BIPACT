@@ -1,7 +1,7 @@
 # **Deep scSTAR documentation**
 
 Next, we attempted to effectively integrate the two samples based on existing annotations, designing a semi-supervised sample integration algorithm based on deep learning—**BIPACT** (Batch Integration via Precision Annotation and Consistency Testing). This scheme, based on existing cell type annotation results, through DsAno and MetaNeighbor consistency verification, allowed us to accurately identify reliable cell type annotations. Based on this, we identified highly credible shared cell types between batches.
-![Image text](https://https://github.com/Hao-Zou-lab/BIPACT/BIPACT.png)
+![Image text](https://github.com/Hao-Zou-lab/BIPACT/blob/main/BIPACT.png)
 
 ## **Dependency**
 

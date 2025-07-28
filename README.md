@@ -25,7 +25,7 @@ We recommend three primary platforms for installing and running BIPACT:
 
 
 
-## **Running Deep scSTAR**
+## **Running BIPACT**
 
 ```shell
 !python BIPACT_main.py
